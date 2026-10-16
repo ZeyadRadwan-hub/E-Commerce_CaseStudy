@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\mapping\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\mapping\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\mapping\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\orderresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\orderresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\mapping\\catrgoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\mapping\\catrgoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\orderupdatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\orderupdatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_Commerce_SystemDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\e_commerce_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\e_commerce_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\authregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\authregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\authlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\authlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\repo\\contract\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\repo\\contract\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\productpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\productpatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\data\\app_database_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\productresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\productresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\dtos\\categoryresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\dtos\\categoryresponedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Migrations\\20261015120417_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:E_Commerce_API\\Migrations\\20261015120417_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|c:\\users\\workstation\\onedrive\\desktop\\software\\web api\\codes\\e_commerce_api\\e_commerce_api\\migrations\\20261015160819_version_zero_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCA220-239E-403D-9965-B760B0B4A2E1}|E_Commerce_API\\E_Commerce_API.csproj|solutionrelative:e_commerce_api\\migrations\\20261015160819_version_zero_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/E_Commerce_SystemDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-16T12:58:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E_Commerce_API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:36:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "E_Commerce_API.http",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\E_Commerce_API.http",
+              "RelativeDocumentMoniker": "E_Commerce_API\\E_Commerce_API.http",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\E_Commerce_API.http",
+              "RelativeToolTip": "E_Commerce_API\\E_Commerce_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-16T12:16:43.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\AuthRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\AuthRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:34:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IAuthRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:33:59.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\OrderRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\OrderRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:15:24.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IOrder.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\IOrder.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IOrder.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:11:22.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderUpdateStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderUpdateStatusDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\OrderUpdateStatusDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderUpdateStatusDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\OrderUpdateStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T08:01:40.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderUpdateDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\OrderUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderUpdateDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\OrderUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:55:19.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "E_Commerce_API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:53:26.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\ProductUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T16:25:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20261015160819_Version_Zero_One.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Migrations\\20261015160819_Version_Zero_One.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Migrations\\20261015160819_Version_Zero_One.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Migrations\\20261015160819_Version_Zero_One.cs",
+              "RelativeToolTip": "E_Commerce_API\\Migrations\\20261015160819_Version_Zero_One.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T16:08:19.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\ProductRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\ProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:38:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IProduct.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\IProduct.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IProduct.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:37:38.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E_Commerce_API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:36:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\CategoryRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\CategoryRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:51:50.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\ICategory.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\ICategory.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\ICategory.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\ICategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:50:03.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E_Commerce_API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:48:37.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductPatchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductPatchDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\ProductPatchDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductPatchDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\ProductPatchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T13:21:02.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Mapping\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\ProductProfile.cs",
+              "RelativeToolTip": "E_Commerce_API\\Mapping\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:32:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Mapping\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\OrderProfile.cs",
+              "RelativeToolTip": "E_Commerce_API\\Mapping\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:32:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CatrgoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\CatrgoryProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Mapping\\CatrgoryProfile.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Mapping\\CatrgoryProfile.cs",
+              "RelativeToolTip": "E_Commerce_API\\Mapping\\CatrgoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:32:12.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\AuthRegisterDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\AuthRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\AuthRegisterDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\AuthRegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:30:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\AuthLoginDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\AuthLoginDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\AuthLoginDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\AuthLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:30:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductCreateDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\ProductCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:28:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductResponeDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\ProductResponeDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\ProductResponeDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\ProductResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:28:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\OrderCreateDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderCreateDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\OrderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:27:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderResponeDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\OrderResponeDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\OrderResponeDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\OrderResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:27:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:26:13.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryResponeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\CategoryResponeDTO.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\DTOs\\CategoryResponeDTO.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\DTOs\\CategoryResponeDTO.cs",
+              "RelativeToolTip": "E_Commerce_API\\DTOs\\CategoryResponeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:25:35.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:13:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IUnitOfWork.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:11:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:07:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Repo\\Contract\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Repo\\Contract\\IGenericRepo.cs",
+              "RelativeToolTip": "E_Commerce_API\\Repo\\Contract\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:05:33.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20261015120417_init.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Migrations\\20261015120417_init.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Migrations\\20261015120417_init.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Migrations\\20261015120417_init.cs",
+              "RelativeToolTip": "E_Commerce_API\\Migrations\\20261015120417_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:04:17.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Program.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Program.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Program.cs",
+              "RelativeToolTip": "E_Commerce_API\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T12:03:19.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Commerce_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\appsettings.json",
+              "RelativeToolTip": "E_Commerce_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T12:02:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "App_Database_Context.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Data\\App_Database_Context.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Data\\App_Database_Context.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Data\\App_Database_Context.cs",
+              "RelativeToolTip": "E_Commerce_API\\Data\\App_Database_Context.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAUwIYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T11:20:27.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "E_Commerce_API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:47:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Order.cs",
+              "RelativeToolTip": "E_Commerce_API\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:41:20.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Product.cs",
+              "RelativeToolTip": "E_Commerce_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:27:56.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\Category.cs",
+              "RelativeToolTip": "E_Commerce_API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:27:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "E_Commerce_API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\workstation\\OneDrive\\Desktop\\Software\\Web API\\Codes\\E_Commerce_API\\E_Commerce_API\\Models\\User.cs",
+              "RelativeToolTip": "E_Commerce_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T08:27:32.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
