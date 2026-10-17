@@ -147,3 +147,4 @@ C:\Users\workstation\OneDrive\Desktop\Software\Web API\Codes\E_Commerce_API\E_Co
 C:\Users\workstation\OneDrive\Desktop\Software\Web API\Codes\E_Commerce_API\E_Commerce_API\obj\Debug\net8.0\E_Commerce_API.pdb
 C:\Users\workstation\OneDrive\Desktop\Software\Web API\Codes\E_Commerce_API\E_Commerce_API\obj\Debug\net8.0\E_Commerce_API.genruntimeconfig.cache
 C:\Users\workstation\OneDrive\Desktop\Software\Web API\Codes\E_Commerce_API\E_Commerce_API\obj\Debug\net8.0\ref\E_Commerce_API.dll
+C:\Users\workstation\OneDrive\Desktop\Software\Web API\Codes\E_Commerce_API\E_Commerce_API\obj\Debug\net8.0\E_Commerce_API.sourcelink.json

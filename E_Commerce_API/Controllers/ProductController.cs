@@ -72,10 +72,10 @@ namespace E_Commerce_API.Controllers
         [HttpPatch("Stock/{id:int}")]
         public async Task<IActionResult> Patch([FromBody ]ProductPatchDTO dto,int id)
         {
-            var x = await _unitOfWork.Product.GetById(id);
-            _mapper.Map(dto,x);
+            var product = await _unitOfWork.Product.GetById(id);
+            _mapper.Map(dto,product);
             await _unitOfWork.Save();
-            var respone = _mapper.Map<ProductResponeDTO>(x);
+            var respone = _mapper.Map<ProductResponeDTO>(product);
             return Ok(respone);
         }
 
