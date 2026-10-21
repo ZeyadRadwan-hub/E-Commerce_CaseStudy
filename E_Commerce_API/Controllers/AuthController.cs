@@ -28,14 +28,6 @@ namespace E_Commerce_API.Controllers
         [HttpPost("Register")]
         public async Task<IActionResult> Rigster(AuthRegisterDTO dto)
         {
-            var user = new User
-            {
-                Email = dto.Email,
-                Name = dto.Name,
-                Password = dto.Password,
-                Role = "Customer"
-            };
-
             var registered = await _unitOfWork.CustomAuth.Register(dto);
 
             if (registered)
